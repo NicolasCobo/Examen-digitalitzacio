@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(252, 252, 234);
+    text-align: center;
+}
+
+html{
+    font-size: 1.5rem;
+    font-weight: 300;
+}
+
+H1{
+    color: rgb(172, 210, 235);
+}
+
+.leyenda{
+    color: rgb(95, 95, 95);
+}
+
